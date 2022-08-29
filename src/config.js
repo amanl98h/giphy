@@ -1,0 +1,1 @@
+export const API = 'https://api.giphy.com/v1/gifs/search?api_key=sTdCJjIAUz2fNDMUob8nqHx6G50HnUzP&limit=30&q='

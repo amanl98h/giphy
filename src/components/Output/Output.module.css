@@ -1,0 +1,25 @@
+.conteiner{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+.conteiner_body{
+    padding: 10px;
+    width: 17%;
+    margin: 40px auto;
+    background: rgb(88, 88, 88);
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+}
+.conteiner_body iframe{
+    width: 100%;
+    
+}
+.conteiner_body:hover{
+    transition: 0.5s;
+    background:white;
+    color: black;
+}
